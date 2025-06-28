@@ -1,0 +1,8 @@
+pandas
+numpy
+scipy
+implicit              # ALS / BPR
+streamlit
+scikit-learn          # метрики
+kaggle
+jupyter
